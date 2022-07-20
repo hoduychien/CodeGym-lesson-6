@@ -1,0 +1,39 @@
+html,body,h1,h2,h3,h4,ul,ol,li,p,a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+h1 {
+    color: #000000;
+}
+
+h2 {
+    margin: 10px 0;
+    color: #000000;
+}
+
+h3 {
+    color: #333333;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+li {
+    margin: 10px 0;
+}
+
+body {
+    width: 95%;
+    margin: 10px auto;
+}
+
+p {
+    color: #444444;
+}
+
+a {
+    color: #440000;
+}
